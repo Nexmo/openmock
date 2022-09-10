@@ -38,7 +38,7 @@ require (
 	github.com/imdario/mergo v0.3.9
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/kr/text v0.2.0 // indirect
-	github.com/labstack/echo/v4 v4.1.16
+	github.com/labstack/echo/v4 v4.2.0
 	github.com/moul/http2curl v1.0.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/onsi/ginkgo v1.11.0 // indirect
@@ -59,7 +59,7 @@ require (
 	github.com/tidwall/gjson v1.6.0
 	github.com/tidwall/pretty v1.0.1 // indirect
 	github.com/yuin/gopher-lua v0.0.0-20180827083657-b942cacc89fe // indirect
-	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b
+	golang.org/x/net v0.0.0-20200822124328-c89045814202
 	google.golang.org/genproto v0.0.0-20200224152610-e50cd9704f63 // indirect
 	google.golang.org/grpc v1.28.1
 	google.golang.org/protobuf v1.21.0
