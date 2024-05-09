@@ -61,7 +61,7 @@ require (
 	github.com/yuin/gopher-lua v0.0.0-20180827083657-b942cacc89fe // indirect
 	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b
 	google.golang.org/genproto v0.0.0-20200224152610-e50cd9704f63 // indirect
-	google.golang.org/grpc v1.28.1
+	google.golang.org/grpc v1.29.0
 	google.golang.org/protobuf v1.21.0
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/yaml.v2 v2.2.8
